@@ -1,2 +1,2 @@
 # Good Citizen Pattern
-Implementing the Good Citizen Pattern with unit testing with JUnit and Joda-Time
+Implementing the Good Citizen Pattern with unit testing using JUnit and Joda-Time
